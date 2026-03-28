@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "grndmaster.aternos.me",
-    "port": 11132,
+    "port": ,
     "version": "",
     "try-creative": false
   },
