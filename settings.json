@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "grndmaster.aternos.me",
+    "ip": "grandmaster.aternos.me",
     "port": 11132,
     "version": "",
     "try-creative": false
